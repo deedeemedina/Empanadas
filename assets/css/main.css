@@ -2032,7 +2032,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: black;
+			background-color: #F64747;
 			color: #ffffff !important;
 		}
 
@@ -2041,7 +2041,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color:black;
+				background-color: #F64747;
 			}
 
 			input[type="submit"].special:active,
@@ -2049,7 +2049,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: black;
+				background-color: #F64747;
 			}
 
 /* Flex */
